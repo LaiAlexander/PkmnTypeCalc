@@ -1,0 +1,123 @@
+[
+    {
+        "type": "Normal",
+        "deals_damage": {
+            "se": [
+                
+            ],
+            "neutral": [
+                "Normal",
+                "Fighting",
+                "Flying",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Fire",
+                "Water",
+                "Grass",
+                "Electric",
+                "Psychic",
+                "Ice",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "nve": [
+                "Rock",
+                "Steel"
+            ],
+            "immune": [
+                "Ghost"
+            ]
+        },
+        "receives_damage": {
+            "se": [
+                "Fighting"
+            ],
+            "neutral": [
+                "Normal",
+                "Flying",
+                "Poison",
+                "Ground",
+                "Rock",
+                "Bug",
+                "Steel",
+                "Fire",
+                "Water",
+                "Grass",
+                "Electric",
+                "Psychic",
+                "Ice",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "nve": [
+
+            ],
+            "immune": [
+                "Ghost"
+            ]
+        }
+    },
+    {
+        "type": "Fighting",
+        "deals_damage": {
+            "se": [
+                "Normal",
+                "Rock",
+                "Steel",
+                "Ice",
+                "Dark"
+            ],
+            "neutral": [
+                "Fighting",
+                "Ground",
+                "Fire",
+                "Water",
+                "Grass",
+                "Electric",
+                "Dragon"
+            ],
+            "nve": [
+                "Flying",
+                "Poison",
+                "Bug",
+                "Psychic",
+                "Fairy"
+            ],
+            "immune": [
+                "Ghost"
+            ]
+        },
+        "receives_damage": {
+            "se": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Steel",
+                "Fire",
+                "Water",
+                "Grass",
+                "Electric",
+                "Ice",
+                "Dragon"
+            ],
+            "nve": [
+                "Rock",
+                "Bug",
+                "Dark"
+            ],
+            "immune": [
+
+            ]
+        }
+    }
+]
